@@ -1,0 +1,12 @@
+.textHover {
+    text-decoration: underline !important;
+    color: #FFE600 !important;
+    transition: all .5s;
+}
+
+.searchField {
+    position: absolute;
+    left: 200px;
+    top: 19px;
+    font-size: 1.5em;
+} 
